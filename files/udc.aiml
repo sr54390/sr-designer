@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>*</pattern>
+    <template>I have no answer for that.</template>
+  </category>
+  <category>
+      <pattern>
+        hello  
+      </pattern>
+      <template>Hi I am Your guider you can ask me any questions about life </template>
+    </category>
+    <category>
+        <pattern>
+            what is life
+        </pattern>
+        <template>
+            life is a game , all you get one chance to make it right or wrong
+        </template>
+    </category>
+    <category>
+        <pattern>
+            what steps are needed to live a good life
+        </pattern>
+        <template>
+            all you have to do is to follow Muhammad S.A.W.W sunnah and you will be successfull in your life
+        </template>
+    </category>
+    <category>
+        <pattern>
+            I am alone 
+        </pattern>
+        <template>
+            ask me anything ,i 'll help you to make your time good
+        </template>
+    </category>
+    <category>
+        <pattern>
+            what is your age
+        </pattern>
+        <template>
+            i am a bot and i have no age , but my owner is a human  
+        </template>
+    </category>
+    <category>
+        <pattern>
+            who is your owner
+        </pattern>
+        <template>
+            My Owner is Shaharyar qureshi
+        </template>
+    </category>
+    <category>
+        <pattern>
+            what is your owner age 
+        </pattern>
+        <template>
+            I am not supposed to tell you this
+        </template>
+    </category>
+    <category>
+        <pattern>
+            what is your name
+        </pattern>
+        <template>
+            My name is guider 
+        </template>
+    </category>
+</aiml>
